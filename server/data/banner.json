@@ -1,0 +1,29 @@
+{
+  "msg": "操作成功",
+  "result": [
+    {
+      "id": "20",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i1/2209761618122/O1CN01VcHw4B29rvx4MtuJ8_!!2209761618122.jpg_.webp",
+      "hrefUrl": "/category/1002000",
+      "type": "1"
+    },
+    {
+      "id": "21",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i3/2209355681565/O1CN01x5xtCA1NQovBfLQ1O_!!2209355681565.jpg_.webp",
+      "hrefUrl": "/activity/20251126",
+      "type": "2"
+    },
+    {
+      "id": "22",
+      "imgUrl": "https://img.alicdn.com/imgextra/i2/1777552687/O1CN01AGn8GW1Vih74d2QYb_!!0-item_pic.jpg_.webp",
+      "hrefUrl": "/product/88888",
+      "type": "1"
+    },
+    {
+      "id": "23",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i1/2219572911433/O1CN01QrHLxu1MSMcljFmLr_!!2219572911433.jpg_.webp",
+      "hrefUrl": "/special/2025winter",
+      "type": "1"
+    }
+  ]
+}

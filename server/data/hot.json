@@ -1,0 +1,33 @@
+{
+  "msg": "操作成功",
+  "result": [
+    {
+      "id": "20",
+      "imgUrl": "https://gw.alicdn.com/imgextra/O1CN01jOnOR41TanGiK0zsU_!!2208135412399-0-picasso.jpg_.webp",
+      "hrefUrl": "/category/1002000",
+      "type": "1",
+      "name":"舒适床垫"
+    },
+    {
+      "id": "21",
+      "imgUrl": "https://img.alicdn.com/imgextra/i2/1773095659/O1CN01R4sGj11rfsRQZ87Hy_!!4611686018427382507-0-item_pic.jpg_.webp",
+      "hrefUrl": "/activity/20251126",
+      "type": "2",
+      "name":"热销麦克风"
+    },
+    {
+      "id": "22",
+      "imgUrl": "https://img.alicdn.com/imgextra/i4/2207440821122/O1CN01D2tiqi1K9vTPoxVtO_!!2207440821122.jpg_.webp",
+      "hrefUrl": "/product/88888",
+      "type": "1",
+      "name":"vivo"
+    },
+    {
+      "id": "23",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i3/2219870774918/O1CN01RajTwJ1mCUwJOsmWq_!!2219870774918.jpg_.webp",
+      "hrefUrl": "/special/2025winter",
+      "type": "1",
+      "name":"护肝保养丸"
+    }
+  ]
+}

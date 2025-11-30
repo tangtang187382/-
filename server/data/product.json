@@ -1,0 +1,93 @@
+{
+  "msg": "操作成功",
+  "result": [
+    {
+      "id":"1",
+      "name":"生鲜",
+      "stitle":"美味鲜",
+      "picture":"https://img0.baidu.com/it/u=1099260886,378204142&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=889",
+      "goods":[{"name": "挪威三文鱼刺身","subname": "400g 中段切片 冰鲜直达 可生食","price": "¥79.90","picture": "https://img1.baidu.com/it/u=1873534854,3647697882&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"},
+      {"name": "佳沃云南高山蓝莓","subname": "125g×4 盒 当季现摘 颗颗饱满","price": "¥59.90","picture": "https://img1.baidu.com/it/u=1873534854,3647697882&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"},
+      {"name": "内蒙原切羔羊卷","subname": "500g 肥瘦均匀 火锅涮煮专用","price": "¥45.90","picture": "https://img1.baidu.com/it/u=1873534854,3647697882&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"},
+      {"name": "正大可生食鸡蛋","subname": "30 枚 无沙门氏菌 早餐溏心蛋","price": "¥32.90","picture": "https://img1.baidu.com/it/u=1873534854,3647697882&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"},{"name": "海南妃子笑荔枝","subname": "2.5kg 核小肉厚 清甜多汁","price": "¥55.90","picture": "https://img1.baidu.com/it/u=1873534854,3647697882&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"},{"name": "澳洲谷饲西冷牛排","subname": "150g×2 片 原切无腌制 厚切嫩弹","price": "¥89.90","picture": "https://img1.baidu.com/it/u=1873534854,3647697882&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"},{"name": "鲜活清水小龙虾","subname": "1.5kg 麻辣味 加热即食 7-9 钱 / 只","price": "¥109.90","picture": "https://img1.baidu.com/it/u=1873534854,3647697882&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"},{"name": "福建平和琯溪蜜柚","subname": "2 个装 约 4kg 红心多汁 当季水果","price": "¥39.90","picture": "https://img1.baidu.com/it/u=1873534854,3647697882&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667"}],
+      "sub":[
+        {
+          "id":"1",
+          "name":"海鲜"
+        },
+        {
+          "id":"2",
+          "name":"牛五花"
+        },
+        {
+          "id":"3",
+          "name":"当日蔬菜"
+        }
+      ]
+    },{
+      "id":"2",
+      "name":"居家",
+      "stitle":"舒舒服服的",
+      "picture":"https://miaobi-lite.bj.bcebos.com/miaobi/5mao/b%27LV8xNzMzNDM3NTY0LjU0OTUzNDY%3D%27/0.png",
+      "goods":[{"name": "极简岩板餐桌","subname": "1.2m 意式轻奢 耐磨耐高温 4 人座","price": "¥899.00","picture": "https://img1.baidu.com/it/u=2088517356,4109737479&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667"},{"name": "头层牛皮电动沙发","subname": "三人位 零靠墙 可调节靠背 客厅首选","price": "¥3999.00","picture": "https://img1.baidu.com/it/u=2088517356,4109737479&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667"},{"name": "全棉印花四件套","subname": "220×240cm 40 支精梳棉 亲肤透气","price": "¥199.00","picture": "https://img1.baidu.com/it/u=2088517356,4109737479&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667"},{"name": "智能护眼台灯","subname": "全光谱低蓝光 三档色温 可定时调光","price": "¥179.00","picture": "https://img1.baidu.com/it/u=2088517356,4109737479&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667"},{"name": "实木推拉门衣柜","subname": "2.0m×2.4m 大容量储物 环保漆 卧室必备","price": "¥2699.00","picture": "https://img1.baidu.com/it/u=2088517356,4109737479&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667"},{"name": "防水浴室柜组合","subname": "80cm 岩板台面 陶瓷盆 带镜柜 防潮防霉","price": "¥1299.00","picture": "https://img1.baidu.com/it/u=2088517356,4109737479&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667"},{"name": "多功能洞洞板","subname": "60×90cm 可自由组合 壁挂收纳 厨房 / 玄关","price": "¥129.00","picture": "https://img1.baidu.com/it/u=2088517356,4109737479&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667"},{"name": "静音独立弹簧床垫","subname": "1.8m×2.0m 乳胶层 护脊透气 分区支撑","price": "¥2899.00","picture": "https://img1.baidu.com/it/u=2088517356,4109737479&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=667"}],
+      "sub":[
+        {
+          "id":"1",
+          "name":"上门装修"
+        },
+        {
+          "id":"2",
+          "name":"家具"
+        },
+        {
+          "id":"3",
+          "name":"生活必须"
+        }
+      ]
+    },{
+      "id":"3",
+      "name":"美食",
+      "stitle":"不吃也白想活着",
+      "picture":"https://img1.baidu.com/it/u=67816788,2876816635&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=654",
+      "goods":[{"name": "广州酒家豉汁凤爪","subname": "300g / 袋 广式早茶点心 加热即食 软糯脱骨","price": "¥32.90","picture": "https://img2.baidu.com/it/u=776862833,1357741913&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"},{"name": "良品铺子奶香巴旦木","subname": "180g / 罐 盐焗调味 酥脆饱满 每日坚果优选","price": "¥45.90","picture": "https://img2.baidu.com/it/u=776862833,1357741913&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"},{"name": "李子柒柳州螺蛳粉","subname": "335g×4 袋 经典原味 酸笋酸豆角足量 正宗风味","price": "¥59.90","picture": "https://img2.baidu.com/it/u=776862833,1357741913&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"},{"name": "三只松鼠奶香核桃","subname": "210g / 袋 薄壳易剥 新疆纸皮核桃 每日坚果","price": "¥39.90","picture": "https://img2.baidu.com/it/u=776862833,1357741913&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"},{"name": "卫龙大面筋辣条","subname": "106g×5 袋 香辣味 儿时经典 独立包装","price": "¥24.90","picture": "https://img2.baidu.com/it/u=776862833,1357741913&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"},{"name": "杏花楼豆沙月饼","subname": "80g×4 枚 / 盒 广式经典 细腻豆沙馅 中秋佳礼","price": "¥68.90","picture": "https://img2.baidu.com/it/u=776862833,1357741913&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"},{"name": "海底捞清油麻辣火锅底料","subname": "220g×3 袋 低辣配方 清爽不腻 煮面炖菜通用","price": "¥42.90","picture": "https://img2.baidu.com/it/u=776862833,1357741913&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"},{"name": "百草味芒果干","subname": "120g×3 袋 泰国进口芒果 无添加防腐剂 酸甜软糯","price": "¥39.90","picture": "https://img2.baidu.com/it/u=776862833,1357741913&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"}],
+      "sub":[
+        {
+          "id":"1",
+          "name":"出门野炊"
+        },
+        {
+          "id":"2",
+          "name":"居家美食"
+        },
+        {
+          "id":"3",
+          "name":"零食馋嘴"
+        }
+      ]
+    },{
+      "id":"4",
+      "name":"数码",
+      "stitle":"阿伟你又在打电动哦",
+      "picture":"https://img1.baidu.com/it/u=2099580946,441326384&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=532",
+      "goods":[{"name": "Apple iPhone 16 Pro","subname": "256GB 自然钛色 A18 芯片 2K 自适应高刷屏 5000 万像素主摄","price": "¥8999.00","picture": "https://img2.baidu.com/it/u=618329548,2051751116&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=720"},{"name": "华为 MateBook 16s","subname": "13 代酷睿 i7 16GB+1TB 16 英寸 2.5K 触控屏 多屏协同 商务本","price": "¥7499.00","picture": "https://img2.baidu.com/it/u=618329548,2051751116&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=720"},{"name": "大疆 Mini 4 Pro 无人机","subname": "畅飞套装 249g 轻量机身 4K/60fps HDR 长续航 45 分钟 避障系统","price": "¥5299.00","picture": "https://img2.baidu.com/it/u=618329548,2051751116&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=720"},{"name": "索尼 WH-1000XM6 耳机","subname": "无线降噪头戴式 36 小时长续航 自适应降噪 高清通话 Hi-Res 音质","price": "¥2499.00","picture": "https://img2.baidu.com/it/u=618329548,2051751116&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=720"},{"name": "小米 Redmi K80","subname": "12GB+512GB 骁龙 8 Gen3 1.5K 120Hz OLED 直屏 5500mAh 大电池","price": "¥2799.00","picture": "https://img2.baidu.com/it/u=618329548,2051751116&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=720"},{"name": "三星 T7 Shield 移动固态硬盘","subname": "2TB 三防设计 (防水 / 防尘 / 防摔) USB3.2 传输速度 1050MB/s","price": "¥899.00","picture": "https://img2.baidu.com/it/u=618329548,2051751116&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=720"},{"name": "华硕 ROG Ally X 掌机","subname": "AMD Ryzen Z1 Extreme 16GB+512GB 7 英寸 120Hz 屏 支持 XBOX/PS 云游戏","price": "¥4799.00","picture": "https://img2.baidu.com/it/u=618329548,2051751116&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=720"},{"name": "苹果 AirPods Pro 2","subname": "无线充电盒版 主动降噪 空间音频 自适应通透模式 续航 30 小时","price": "¥1799.00","picture": "https://img2.baidu.com/it/u=618329548,2051751116&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=720"}],
+      "sub":[
+        {
+          "id":"1",
+          "name":"平板"
+        },
+        {
+          "id":"2",
+          "name":"笔记本"
+        },
+        {
+          "id":"3",
+          "name":"台式机"
+        },
+        {
+          "id":"4",
+          "name":"国产精选"
+        }
+      ]
+    }
+  ]
+}
